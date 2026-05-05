@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently building things that (hopefully) work on the first try 🔭<br><br>Always open to team up on projects that actually make a difference 🤝<br><br>Still figuring out why my code works... and sometimes why it doesn't 🆘<br><br>Leveling up every day, one project at a time 🌱<br><br>Ask me anything about web dev, I might even know the answer 💬<br><br>Fun fact: my best ideas come at 2am when I should be sleeping ⚡
+Currently building things that (hopefully) work on the first try 🔭<br><br>Always open to team up on projects that actually make a difference 🤝<br><br>Still figuring out why my code works... and sometimes why it doesn't 🆘<br><br>Leveling up every day, one project at a time 🌱<br><br>Ask me anything about web dev, I might even know the answer 💬
 
 
 ## 🌐 Socials:
