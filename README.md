@@ -12,6 +12,12 @@ Currently building things that (hopefully) work on the first try 🔭<br><br>Alw
 ![](https://streak-stats.demolab.com/?user=RefifDev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RefifDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<br/>
+
+<p align="center">
+  <img src="contribution-ship.gif" alt="My contributions under attack" width="960"/>
+</p>
+
 ---
 [![](https://komarev.com/ghpvc/?username=RefifDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
