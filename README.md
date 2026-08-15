@@ -7,24 +7,27 @@ i hate coding...
 i hate coding...
 /* bug fixed */
 I LOVE CODING!
-
 ---
 
 ### 🌐 Connect & Find Me
 
-| Service | Link |
-| :--- | :--- |
-| <img src="https://simpleicons.org/icons/firefox.svg" width="18" height="18" /> **Website** | [refif.dev](https://refif.dev) |
-| <img src="https://simpleicons.org/icons/gmail.svg" width="18" height="18" /> **Email** | [ilan@refif.dev](mailto:ilan@refif.dev) |
-| <img src="https://simpleicons.org/icons/github.svg" width="18" height="18" /> **GitHub** | [@RefifDev](https://github.com/RefifDev) |
-| <img src="https://simpleicons.org/icons/gitlab.svg" width="18" height="18" /> **GitLab** | [@RefifDev](https://gitlab.com/RefifDev) |
+[![My Links](https://skillicons.dev/icons?i=gmail,github,gitlab)](https://skillicons.dev)
+* 🌐 **Website:** [refif.dev](https://refif.dev)
+* ✉️ **Email:** [ilan@refif.dev](mailto:ilan@refif.dev)
+* 🐙 **GitHub:** [@RefifDev](https://github.com/RefifDev)
+* 🦊 **GitLab:** [@RefifDev](https://gitlab.com/RefifDev)
 
 ---
 
 ### 💻 Tech Stack
 
-* **Languages:** <br>[![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
-* **Backend & Cloud:** <br>[![My Skills](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
-* **Tools & OS:** <br>[![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab)](https://skillicons.dev)
-* **Data & AI:** scikit-learn | pandas
+* **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+
+* **Data & AI:** <br>[![Data & AI](https://skillicons.dev/icons?i=sklearn,py)](https://skillicons.dev) *(Pandas & Scikit-Learn)*
+
+* **Backend & Cloud:** <br>[![Backend & Cloud](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
+
+* **Tools & OS:** <br>[![Tools & OS](https://skillicons.dev/icons?i=linux,git,github,gitlab)](https://skillicons.dev)
+
+---
 
