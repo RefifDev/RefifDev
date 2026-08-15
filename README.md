@@ -29,7 +29,7 @@
 
 * **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 
-* **Data & AI:** <br>[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Pandas" /></a>
+* **Data & AI:** <br>[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.svg" width="48" height="48" alt="Pandas" /></a>
 
 * **Backend & Cloud:** <br>[![Backend & Cloud](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
 
