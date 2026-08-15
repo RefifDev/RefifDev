@@ -8,15 +8,16 @@ i hate coding...
 /* bug fixed */
 I LOVE CODING!
 
-
 ---
 
 ### 🌐 Connect & Find Me
 
-* <img src="https://simpleicons.org/icons/firefox.svg" width="16" height="16" /> **Website:** [refif.dev](https://refif.dev)
-* <img src="https://simpleicons.org/icons/gmail.svg" width="16" height="16" /> **Email:** [ilan@refif.dev](mailto:ilan@refif.dev)
-* <img src="https://simpleicons.org/icons/github.svg" width="16" height="16" /> **GitHub:** [@RefifDev](https://github.com/RefifDev)
-* <img src="https://simpleicons.org/icons/gitlab.svg" width="16" height="16" /> **GitLab:** [@RefifDev](https://gitlab.com/RefifDev)
+| Service | Link |
+| :--- | :--- |
+| <img src="https://simpleicons.org/icons/firefox.svg" width="18" height="18" /> **Website** | [refif.dev](https://refif.dev) |
+| <img src="https://simpleicons.org/icons/gmail.svg" width="18" height="18" /> **Email** | [ilan@refif.dev](mailto:ilan@refif.dev) |
+| <img src="https://simpleicons.org/icons/github.svg" width="18" height="18" /> **GitHub** | [@RefifDev](https://github.com/RefifDev) |
+| <img src="https://simpleicons.org/icons/gitlab.svg" width="18" height="18" /> **GitLab** | [@RefifDev](https://gitlab.com/RefifDev) |
 
 ---
 
