@@ -26,9 +26,6 @@
 ---
 
 ### 💻 Tech Stack
----
-
-### 💻 Tech Stack
 
 * **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 
