@@ -22,11 +22,8 @@ I LOVE CODING!
 
 ### 💻 Tech Stack
 
-* **Languages:**
-*              [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
-* **Backend & Cloud:**
-*                    [![My Skills](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
-* **Tools & OS:**
-*               [![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab)](https://skillicons.dev)
+* **Languages:** <br>[![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+* **Backend & Cloud:** <br>[![My Skills](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
+* **Tools & OS:** <br>[![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab)](https://skillicons.dev)
 * **Data & AI:** scikit-learn | pandas
 
