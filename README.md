@@ -29,7 +29,7 @@
 
 * **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 
-* **Data & AI:** <br>[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48" alt="Pandas" />
+* **Data & AI:** <br>[![My Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" width="48" height="48" style="background-color: #1d2026; border-radius: 12px; padding: 8px; box-sizing: border-box;" alt="Pandas" /></a>
 
 * **Backend & Cloud:** <br>[![Backend & Cloud](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
 
