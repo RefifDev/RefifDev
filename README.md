@@ -13,10 +13,10 @@ I LOVE CODING!
 
 ### 🌐 Connect & Find Me
 
-* 🌐 **Website:** [refif.dev](https://refif.dev)
-* ✉️ **Email:** [ilan@refif.dev](mailto:ilan@refif.dev)
-* 🐙 **GitHub:** [@RefifDev](https://github.com/RefifDev)
-* 🦊 **GitLab:** [@RefifDev](https://gitlab.com/RefifDev)
+* <img src="https://simpleicons.org/icons/firefox.svg" width="16" height="16" /> **Website:** [refif.dev](https://refif.dev)
+* <img src="https://simpleicons.org/icons/gmail.svg" width="16" height="16" /> **Email:** [ilan@refif.dev](mailto:ilan@refif.dev)
+* <img src="https://simpleicons.org/icons/github.svg" width="16" height="16" /> **GitHub:** [@RefifDev](https://github.com/RefifDev)
+* <img src="https://simpleicons.org/icons/gitlab.svg" width="16" height="16" /> **GitLab:** [@RefifDev](https://gitlab.com/RefifDev)
 
 ---
 
