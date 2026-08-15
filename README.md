@@ -23,7 +23,7 @@ I LOVE CODING!
 
 * **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 
-* **Data & AI:** <br>[![Data & AI](https://skillicons.dev/icons?i=sklearn,py)](https://skillicons.dev) *(Pandas & Scikit-Learn)*
+* **Data & AI:** <br>[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://skill
 
 * **Backend & Cloud:** <br>[![Backend & Cloud](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
 
