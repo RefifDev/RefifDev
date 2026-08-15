@@ -1,12 +1,19 @@
 # 📜 Refif's Journal
 
-> **Privacy is non-negotiable. Open Source is the default. Code is life.**
+<p align="left">
+<br>i hate coding...<br>
+<br>i hate coding...<br>
+<br>i hate coding...<br>
+<br># bug fixed<br>
+<br>I love coding
+</p>
 
-i hate coding...
-i hate coding...
-i hate coding...
-/* bug fixed */
-I LOVE CODING!
+---
+
+> Privacy is paramount.<br>
+<br>> Open source is essential.<br>
+<br>> Code is life.
+
 ---
 
 ### 🌐 Connect & Find Me
@@ -24,8 +31,7 @@ I LOVE CODING!
 * **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 
 * **Data & AI:** <br>[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://skill
-
-* **Backend & Cloud:** <br>[![Backend & Cloud](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
+* **Data & AI:** <br>[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/pandas.svg" width="48" height="48" alt="Pandas" /></a>
 
 * **Tools & OS:** <br>[![Tools & OS](https://skillicons.dev/icons?i=linux,git,github,gitlab)](https://skillicons.dev)
 
