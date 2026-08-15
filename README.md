@@ -22,15 +22,8 @@ I LOVE CODING!
 
 ### 💻 Tech Stack
 
-* **Languages:** HTML5 | CSS3 | JavaScript | Python
-* **Data & AI:** Scikit-Learn | Pandas
-* **Backend & Cloud:** Flask | Cloudflare
-* **Tools & OS:** Linux | Git | GitHub | GitLab
+* **Languages:** [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+* **Data & AI:** [![My Skills](https://skillicons.dev/icons?i=scikit-learn,pandas)](https://skillicons.dev)
+* **Backend & Cloud:** [![My Skills](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
+* **Tools & OS:** [![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab)](https://skillicons.dev)
 
----
-
-### 📊 GitHub Stats
-
-![Refif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RefifDev&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RefifDev&layout=compact&theme=dark)
