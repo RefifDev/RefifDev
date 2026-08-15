@@ -1,32 +1,24 @@
-# 📜 The Digital Manuscript
-
 <p align="center">
-  <i>A collection of thoughts, code, and digital footprints.</i>
-</autoh>
-
----
+  <img src="https://images.unsplash.com/photo-1585314291707-03601070366e?q=80&w=1000&auto=format&fit=crop" alt="Old Paper Banner" width="100%">
+</p>
 
 <p align="left">
 i hate coding...<br>
 i hate coding...<br>
 i hate coding...<br>
-<strong># 🐛 bug fixed</strong><br>
-<strong>I love coding</strong>
+# bug fixed<br>
+I love coding
 </p>
 
 ---
 
-### 🖋️ The Manifesto
-
-> 🛡️ **Privacy is paramount.** In a world of surveillance, I believe your data belongs to you. I build with privacy-first principles.
->
-> 🔓 **Open Source is the soul of innovation.** Sharing code is not just a practice, it is a commitment to collective progress.
->
-> 💻 **Code is life.** It is the logic that shapes our reality, one line at a time.
+> Privacy is paramount.<br>
+> Open source is essential.<br>
+> Code is life.
 
 ---
 
-### 🛠️ The Toolkit
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,32 +31,13 @@ i hate coding...<br>
   <img src="https://img.shields.io/badge/Cloudflare-%23F6821F?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-%2E1D2F%3A?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Digital Footprint
+### Statistics
 
 <p align="center">
-  <!-- GitHub Stats All Time -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RefifDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefifDev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connecting
-
-<p align="left">
-  <a href="mailto:ilan@refif.dev"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=protonmail&logoColor=white" /></a>
-  <a href="https://gitlab.com/RefifDev"><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" /></a>
-  <a href="https://github.com/RefifDev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://refif.dev"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>"Done is better than perfect, but privacy is non-negotiable."</i>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RefifDev&show_icons=true
