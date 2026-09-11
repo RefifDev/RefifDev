@@ -18,7 +18,7 @@
 
 ### **🌐** [Connect & Find Me](https://refif.dev)
 
-[![My Links](https://skillicons.dev/icons?i=gmail,github,gitlab)](https://skillicons.dev)
+[![My Links](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
 * 🐙 **GitHub:** [@RefifDev](https://github.com/RefifDev)
 * 🦊 **GitLab:** [@RefifDev](https://gitlab.com/RefifDev)
 
