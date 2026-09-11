@@ -19,7 +19,6 @@
 ### **🌐** [Connect & Find Me](https://refif.dev)
 
 [![My Links](https://skillicons.dev/icons?i=gmail,github,gitlab)](https://skillicons.dev)
-* ✉️ **Email:** [ilan@refif.dev](mailto:ilan@refif.dev)
 * 🐙 **GitHub:** [@RefifDev](https://github.com/RefifDev)
 * 🦊 **GitLab:** [@RefifDev](https://gitlab.com/RefifDev)
 
