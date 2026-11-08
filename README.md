@@ -14,10 +14,10 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
-* **Languages:** <br> - Html <br> - Css <br> - JavaScript <br> - Java <br> Python 
-* **Data & AI:** <br> Scikit-Learn <br> Pandas
+* **Languages:** <br> - Html <br> - Css <br> - JavaScript <br> - Java <br> - Python 
+* **Data & AI:** <br> - Scikit-Learn <br> - Pandas
 
 * **Backend & Cloud:** <br> - Cloudeflare <br> - Flask
 
