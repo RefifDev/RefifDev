@@ -16,14 +16,6 @@
 
 ---
 
-### **🌐** [Connect & Find Me](https://refif.dev)
-
-[![My Links](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
-* 🐙 **GitHub:** [@RefifDev](https://github.com/RefifDev)
-* 🦊 **GitLab:** [@RefifDev](https://gitlab.com/RefifDev)
-
----
-
 ### 💻 Tech Stack
 
 * **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
