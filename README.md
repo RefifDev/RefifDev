@@ -1,5 +1,3 @@
-# 📜 Refif's Journal
-
 <p align="left">
 <br>i hate coding...
 <br>i hate coding...
@@ -18,12 +16,11 @@
 
 ### 💻 Tech Stack
 
-* **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
-* **Data & AI:** <br><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" /> <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/pandas.svg" width="48" height="48" alt="Pandas" /></a>
+* **Languages:** <br> - Html <br> - Css <br> - JavaScript <br> - Java <br> Python 
+* **Data & AI:** <br> Scikit-Learn <br> Pandas
 
-* **Backend & Cloud:** <br>[![Backend & Cloud](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
+* **Backend & Cloud:** <br> - Cloudeflare <br> - Flask
 
-* **Tools & OS:** <br>[![Tools & OS](https://skillicons.dev/icons?i=linux,git,github,gitlab)](https://skillicons.dev)
+* **Tools & OS:** <br> - Linux <br> - Git <br> - Github <br> - Gitlab
 
----
 
