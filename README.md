@@ -18,7 +18,7 @@
 
 ### 💻 Tech Stack
 
-* **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+* **Languages:** <br>[![Languages](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
 * **Data & AI:** <br><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" /> <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/pandas.svg" width="48" height="48" alt="Pandas" /></a>
 
 * **Backend & Cloud:** <br>[![Backend & Cloud](https://skillicons.dev/icons?i=flask,cloudflare)](https://skillicons.dev)
